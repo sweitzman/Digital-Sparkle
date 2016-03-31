@@ -1,0 +1,42 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	background-color:white; 
+}
+
+h1 {
+	font-family: sans-serif, 'Trebuchet MS', Arial, sans-serif;
+	font-size: 25px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 5px;
+	color:black;
+	margin-top:50px;
+	margin-left:400px;
+	margin-right:400px;
+	font-weight:thin;
+}
+
+h1:hover {
+	color:black;
+	cursor:pointer;
+}
+
+p {
+	font-family: sans-serif, 'Trebuchet MS', Arial, sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	color:black;
+	margin-top:100px;
+	margin-left:0px;
+	margin-right:0px;
+	font-weight:5px;
+}
+
+img {
+	width: 20px;
+}
+
+
+
